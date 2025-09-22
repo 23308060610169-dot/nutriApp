@@ -10,7 +10,7 @@
 -Institucion: cetis61
 
 ## Foto Integrante 1
-  ![WhatsApp Image 2025-09-22 at 9 40 29 AM](https://github.com/user-attachments/assets/98966fe7-74dd-4997-923e-a2ef2541f832)
+![WhatsApp Image 2025-09-22 at 9 40 29 AM](https://github.com/user-attachments/assets/5b935e69-2b4e-4168-a3c8-00a4869223d0)
 
 ## Integante 1 
 -Nombre: Heriberto Yurem Vasquez Cervantes
@@ -19,6 +19,6 @@
 -Institucion: cetis61
 
 ## Foto Integrante 2
-![WhatsApp Image 2025-09-22 at 9 40 00 AM](https://github.com/user-attachments/assets/b231af9a-0dac-42a7-a701-4d276fd9db46)
+![WhatsApp Image 2025-09-22 at 9 40 00 AM](https://github.com/user-attachments/assets/562514e4-caab-42c8-a474-acf32b2de822)
 
 ## Analisis de la base de datos:

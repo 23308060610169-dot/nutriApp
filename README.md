@@ -3,7 +3,7 @@
 ## Objetivo:
   Crear una app que ayude a una mejorar la alimentacion de las personas
 
-## Integantes 
+## Intregantes 
 -Miguel Angel Bautista
 -Heriberto Yurem Vasquez Cervantes
    
